@@ -1,0 +1,6 @@
+{"id":"assur-001","input":"Mon pare-brise a été fissuré par un gravillon sur l'autoroute.","expected":"AUTO"}
+{"id":"assur-002","input":"J'ai eu un accrochage avec ma voiture sur un parking.","expected":"AUTO"}
+{"id":"assur-003","input":"Une fuite d'eau a endommagé le plafond de mon appartement.","expected":"MRH"}
+{"id":"assur-004","input":"Je souhaite déclarer un cambriolage dans ma maison.","expected":"MRH"}
+{"id":"assur-005","input":"Ma moto a été volée dans la rue cette nuit.","expected":"MOTO"}
+{"id":"assur-006","input":"Mon scooter a été accidenté à un feu rouge.","expected":"MOTO"}

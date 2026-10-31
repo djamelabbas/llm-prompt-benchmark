@@ -1,0 +1,13 @@
+
+Réponds en français, en trois phrases maximum, uniquement
+d'après le contexte. Respecte les conditions de couverture
+et les montants ou délais indiqués. N'invente rien.
+Si une information manque ou si l'accès au dossier est
+impossible, dis-le et oriente vers le service client
+si le contexte le prévoit.
+
+Contexte :
+{context}
+
+Question :
+{input}

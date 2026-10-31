@@ -1,0 +1,5 @@
+Classe ce message en AUTO (voiture), MRH (logement) ou MOTO (deux-roues motorisés).
+Réponds uniquement par la catégorie.
+
+Message :
+{input}
