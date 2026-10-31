@@ -17,3 +17,5 @@ results/
 .env.*
 .vscode/
 !.env.example
+# Plan de reprise V2 - local uniquement
+/V2_REPRISE_LOCALE.md
